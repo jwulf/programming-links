@@ -2,6 +2,11 @@
 
 An expanding list of cool links that I've found about programming.
 
+## Testing
+
+* [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+* [How to refactor code to be more testable](https://hackernoon.com/how-to-refactor-unwieldy-untestable-code-4a73d75cb80a)
+
 ## Functional Programming in JavaScript
 
 * [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
