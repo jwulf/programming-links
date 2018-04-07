@@ -12,6 +12,7 @@ An expanding list of cool links that I've found about programming.
 * [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 * [Why use a Maybe type in JavaScript](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript)
 * [Functional Programming In JavaScript — With Practical Examples (Part 1)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
+* [Functional Programming In JavaScript — With Practical Examples (Part 2)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
 * [Fluture - functional future implementation](https://github.com/fluture-js/Fluture)
 * [True Myth - TypeScript-first functional library](https://true-myth.js.org/)
 
