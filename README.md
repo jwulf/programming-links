@@ -37,3 +37,7 @@ An expanding list of cool links that I've found about programming.
 ## VSCode Extensions
 
 * [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
+
+## Intro to TypeScript
+
+* [My new best friend TypeScript](https://levelup.gitconnected.com/my-new-best-friend-typescript-2a5ca8399622)
