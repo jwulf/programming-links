@@ -15,6 +15,7 @@ An expanding list of cool links that I've found about programming.
 * [Functional Programming In JavaScript — With Practical Examples (Part 2)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
 * [Fluture - functional future implementation](https://github.com/fluture-js/Fluture)
 * [True Myth - TypeScript-first functional library](https://true-myth.js.org/)
+* [Here are a few function decorators you can write from scratch](https://medium.freecodecamp.org/here-are-a-few-function-decorators-you-can-write-from-scratch-488549fe8f86)
 
 ## Immutable
 
@@ -32,3 +33,7 @@ An expanding list of cool links that I've found about programming.
 ## Cool JS Code Snippets
 
 * [Empty](https://www.sitepoint.com/testing-for-empty-values/) - test for an empty variable, including undefined, null, empty objects or arrays
+
+## VSCode Extensions
+
+* [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
