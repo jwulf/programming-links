@@ -16,6 +16,7 @@ An expanding list of cool links that I've found about programming.
 * [Fluture - functional future implementation](https://github.com/fluture-js/Fluture)
 * [True Myth - TypeScript-first functional library](https://true-myth.js.org/)
 * [Here are a few function decorators you can write from scratch](https://medium.freecodecamp.org/here-are-a-few-function-decorators-you-can-write-from-scratch-488549fe8f86)
+* [Exploring ReasonML (Book online)](http://reasonmlhub.com/exploring-reasonml/toc.html)
 
 ## Immutable
 
