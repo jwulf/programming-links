@@ -8,6 +8,7 @@ An expanding list of cool links that I've found about programming.
 * [Why use a Maybe type in JavaScript](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript)
 * [Functional Programming In JavaScript — With Practical Examples (Part 1)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 * [Fluture - functional future implementation](https://github.com/fluture-js/Fluture)
+* [True Myth - TypeScript-first functional library](https://true-myth.js.org/)
 
 ## Immutable
 
