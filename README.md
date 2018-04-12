@@ -47,3 +47,15 @@ An expanding list of cool links that I've found about programming.
 
 * [An Introduction to Elm](https://guide.elm-lang.org/) (book)
 * [99 Elm Problems](https://legacy.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
+
+## GraphQL
+
+* [Pagination](http://graphql.org/learn/pagination/)
+* [GraphQL Pagination Implementation](https://medium.com/@mattmazzola/graphql-pagination-implementation-8604f77fb254)
+* [Organizing GraphQL Mutations](https://medium.freecodecamp.org/organizing-graphql-mutations-653306699f3d)
+* [Mutations and Input Types](https://graphql.org/graphql-js/mutations-and-input-types/)
+* [Anatomy of an Apollo Mutation](https://medium.com/@abhiaiyer/anatomy-of-a-mutation-apollo-graphql-5abe8c8b0d80)
+
+## MongoDB
+
+* [Mongo Cursor Pagination npm module](https://www.npmjs.com/package/mongo-cursor-pagination)
