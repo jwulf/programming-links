@@ -42,3 +42,8 @@ An expanding list of cool links that I've found about programming.
 ## Intro to TypeScript
 
 * [My new best friend TypeScript](https://levelup.gitconnected.com/my-new-best-friend-typescript-2a5ca8399622)
+
+## Elm
+
+* [An Introduction to Elm](https://guide.elm-lang.org/) (book)
+* [99 Elm Problems](https://legacy.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
